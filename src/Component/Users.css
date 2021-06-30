@@ -1,0 +1,29 @@
+.profile {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+
+  height: 300px;
+  width: 500px;
+  background-color: gray;
+  margin-top: 9px;
+
+  margin-bottom: 20px;
+  margin-right: 10px;
+  padding-bottom: 5px;
+  column-gap: 29px;
+}
+
+.profile img {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+.add-button {
+  background-color: hotpink;
+  width: 150px;
+  height: 30px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  cursor: pointer;
+}
